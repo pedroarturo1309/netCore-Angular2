@@ -12,12 +12,21 @@ namespace app_angular_netcore.Controllers
     [Route("api/Message")]
     public class MessageController : Controller
     {
-        public IEnumerable<Models.Message> Get()
-        {
-            return new Message[] {
+        static List<Models.Message> messages = new List<Models.Message>{
                 new Message { Owner = "Pedro", Text = "El texto de Pedro" },
                 new Message { Owner = "Reinaldo", Text = "Wajajja" }
             };
+
+
+        public IEnumerable<Models.Message> Get()
+        {
+            return messages;
+        }
+
+        [HttpPost]
+        public void Post([FromBody] Models.Message message)
+        {
+            messages.Add(message);
         }
     }
 }
