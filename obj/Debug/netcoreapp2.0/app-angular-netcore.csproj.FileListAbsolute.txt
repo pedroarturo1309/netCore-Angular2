@@ -9,3 +9,14 @@ C:\Users\pedro.deleon\Documents\Pedro De Leon\CursoAngular\app-angular-netcore\o
 C:\Users\pedro.deleon\Documents\Pedro De Leon\CursoAngular\app-angular-netcore\bin\Debug\netcoreapp2.0\app-angular-netcore.pdb
 C:\Users\pedro.deleon\Documents\Pedro De Leon\CursoAngular\app-angular-netcore\obj\Debug\netcoreapp2.0\app-angular-netcore.dll
 C:\Users\pedro.deleon\Documents\Pedro De Leon\CursoAngular\app-angular-netcore\obj\Debug\netcoreapp2.0\app-angular-netcore.pdb
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\bin\Debug\netcoreapp2.0\app-angular-netcore.deps.json
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\bin\Debug\netcoreapp2.0\app-angular-netcore.runtimeconfig.json
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\bin\Debug\netcoreapp2.0\app-angular-netcore.runtimeconfig.dev.json
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\bin\Debug\netcoreapp2.0\app-angular-netcore.dll
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\bin\Debug\netcoreapp2.0\app-angular-netcore.pdb
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\obj\Debug\netcoreapp2.0\app-angular-netcore.csprojResolveAssemblyReference.cache
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\obj\Debug\netcoreapp2.0\app-angular-netcore.csproj.CoreCompileInputs.cache
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\obj\Debug\netcoreapp2.0\app-angular-netcore.AssemblyInfoInputs.cache
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\obj\Debug\netcoreapp2.0\app-angular-netcore.AssemblyInfo.cs
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\obj\Debug\netcoreapp2.0\app-angular-netcore.dll
+C:\Users\pedro.deleon\Documents\GitHub\Prueba\netCore-Angular2\obj\Debug\netcoreapp2.0\app-angular-netcore.pdb

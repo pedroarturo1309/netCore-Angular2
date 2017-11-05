@@ -237,3 +237,11 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 node_modules/
+*.dll
+obj/app-angular-netcore.csproj.nuget.g.props
+*.dll
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+bin/Debug/netcoreapp2.0/app-angular-netcore.pdb
+obj/app-angular-netcore.csproj.nuget.cache
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll

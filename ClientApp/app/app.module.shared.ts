@@ -10,6 +10,7 @@ import { HomeComponent } from './components/home/home.component';
 import { FetchDataComponent } from './components/fetchdata/fetchdata.component';
 import { CounterComponent } from './components/counter/counter.component';
 import { MessageComponent } from './components/message/messages.component';
+import { NewMessageComponent } from './components/message/NewMessage/NewMessage.component';
 
 @NgModule({
     declarations: [
@@ -18,6 +19,7 @@ import { MessageComponent } from './components/message/messages.component';
         CounterComponent,
         FetchDataComponent,
         MessageComponent,
+        NewMessageComponent,
         HomeComponent
     ],
     imports: [

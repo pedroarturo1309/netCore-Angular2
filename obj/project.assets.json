@@ -13121,11 +13121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro.deleon\\Documents\\Pedro De Leon\\CursoAngular\\app-angular-netcore\\app-angular-netcore.csproj",
+      "projectUniqueName": "C:\\Users\\pedro.deleon\\Documents\\GitHub\\Prueba\\netCore-Angular2\\app-angular-netcore.csproj",
       "projectName": "app-angular-netcore",
-      "projectPath": "C:\\Users\\pedro.deleon\\Documents\\Pedro De Leon\\CursoAngular\\app-angular-netcore\\app-angular-netcore.csproj",
+      "projectPath": "C:\\Users\\pedro.deleon\\Documents\\GitHub\\Prueba\\netCore-Angular2\\app-angular-netcore.csproj",
       "packagesPath": "C:\\Users\\pedro.deleon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro.deleon\\Documents\\Pedro De Leon\\CursoAngular\\app-angular-netcore\\obj\\",
+      "outputPath": "C:\\Users\\pedro.deleon\\Documents\\GitHub\\Prueba\\netCore-Angular2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
