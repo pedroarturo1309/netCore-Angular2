@@ -18,7 +18,6 @@
 [Rr]elease/
 [Rr]eleases/
 x64/
-node_modules/
 x86/
 build/
 bld/
@@ -236,12 +235,11 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
-node_modules/
-*.dll
-obj/app-angular-netcore.csproj.nuget.g.props
-*.dll
-bin/Debug/netcoreapp2.0/app-angular-netcore.dll
-bin/Debug/netcoreapp2.0/app-angular-netcore.pdb
-obj/app-angular-netcore.csproj.nuget.cache
-bin/Debug/netcoreapp2.0/app-angular-netcore.dll
-bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+dotnet-dev-win-x64.1.0.4.exe
+dotnet-win-x64.1.1.2.exe
+nuget.exe
+wwwroot/firmas/
+wwwroot/huellas/
+aspnet_client/system_web/4_0_30319/crystalreportviewers13/urlreporting/activexviewer.js
+aspnet_client/system_web/4_0_30319/crystalreportviewers13/urlreporting/appletviewer.js
+aspnet_client/system_web/
