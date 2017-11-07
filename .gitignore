@@ -184,6 +184,9 @@ ClientBin/
 orleans.codegen.cs
 
 /node_modules
+/obj
+/obj/Debug
+/bin
 
 /yarn.lock
 
@@ -243,3 +246,10 @@ wwwroot/huellas/
 aspnet_client/system_web/4_0_30319/crystalreportviewers13/urlreporting/activexviewer.js
 aspnet_client/system_web/4_0_30319/crystalreportviewers13/urlreporting/appletviewer.js
 aspnet_client/system_web/
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+bin/Debug/netcoreapp2.0/app-angular-netcore.dll
+obj/Debug/netcoreapp2.0/app-angular-netcore.pdb

@@ -32,6 +32,7 @@ import { NewMessageComponent } from './components/message/NewMessage/NewMessage.
             { path: 'counter', component: CounterComponent },
             { path: 'fetch-data', component: FetchDataComponent },
             { path: 'message', component: MessageComponent },
+            { path: 'Newmessage', component: NewMessageComponent },
             { path: '**', redirectTo: 'home' }
         ])
     ]

@@ -3,7 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppModuleShared } from './app.module.shared';
 import { AppComponent } from './components/app/app.component';
 import {WebService} from './services/web.service';
-import { NewMessageComponent } from './components/message/NewMessage/NewMessage.component';
 
 @NgModule({
     bootstrap: [ AppComponent ],
@@ -11,8 +10,6 @@ import { NewMessageComponent } from './components/message/NewMessage/NewMessage.
         BrowserModule,
         AppModuleShared
     ],
-    declarations: [
-        NewMessageComponent],
     providers: [
         { provide: 'BASE_URL', useFactory: getBaseUrl }, WebService
     ]

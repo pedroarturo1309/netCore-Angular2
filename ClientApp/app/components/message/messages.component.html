@@ -1,5 +1,9 @@
-<h1>Prueba</h1>
+<NewMessage></NewMessage>
 
-<div *ngFor="let mes of messages">
-    {{mes.text}}
+<div class="jumbotron" *ngFor="let message of webService.messages">
+    <h1>
+        <h3>
+            <b>Propietario: </b>{{message.owner}}</h3>
+    </h1>
+    <p class="card-text">{{message.text}}</p>
 </div>
